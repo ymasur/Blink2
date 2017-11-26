@@ -1,7 +1,7 @@
 #include <Arduino.h>
 
 /*
-  Blink 2 (modele toto)
+  Blink 2 (modele sans toto)
   in a ramp counter with a limit of 32 steps,
   Turns on an LED on for a duration of the step, then off for the rest.
   This make a progressive intensity of ligth.
